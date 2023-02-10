@@ -20,10 +20,25 @@ for mp3path in mp3paths:
     # _, probs = model.detect_language(mel)
     # print(f"Detected language: {max(probs, key=probs.get)}")
 
+    #prompt='以下是普通话的句子'
+    #result = model.transcribe(audioFile, task='translate',language='zh',verbose=True,initial_prompt=prompt)
+
     # decode the audio
-    options = whisper.DecodingOptions()
+    options = whisper.DecodingOptions(language="Japanese")
+    #options['language'] = 'Japanese'
+
+
+    #decode_options = dict(language="Japanese", **options)
+    # transcribe_options = dict(task="transcribe", **decode_options)
+
+    # transcription = model.transcribe("kittens_30secs.mp3", **transcribe_options)
+    # print(transcription["text"])
+
+
     result = whisper.decode(model, mel, options)
 
     # print the recognized text
     print(f'predict: {result.text}')
     print(f'origin : {text}')
+
+
