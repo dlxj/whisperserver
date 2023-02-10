@@ -1,0 +1,300 @@
+predict: やっぱり
+origin : やっぱり
+
+predict: 見てる 私を見てるわ
+origin : 見てる 私を見てるわ
+
+predict: ほれ、これが希望上根学園流の歓迎だべ!
+origin : ほれ これが希望ヶ峰学園流の歓迎だべ
+
+predict: そ、そうかもしれないけど、前園さんみたいな人気者は…
+origin : そうかもしれないけど 舞園さんみたいな人気者は
+
+predict: 特別な学校だしね!ね!
+origin : 特別な学校だしね ねえ？
+
+predict: そんな希望に満ちた一歩となるはずだった
+origin : そんな希望に満ちた一歩と…なるはずだった
+
+predict: あいやいや!
+origin : あっ いやいや
+
+predict: まずは状況を見極めることからだ
+origin : まずは状況を見極めることからだ
+
+predict: 都会のど真ん中の一等地にそびえ立っていた
+origin : 都会のど真ん中の一等地に聳えたっていた
+
+predict: きっと特別な演出か何かだよ
+origin : きっと特別な演出か何かだよ
+
+predict: 空っぽはないでよ
+origin : からかわないでよ
+
+predict: マジで?当たるのか?
+origin : マジで 当たるのか
+
+predict: え、そのつもりじゃ…
+origin : えっ そんなつもりじゃ…
+
+predict: えっ
+origin : えっ？
+
+predict: 僕みたいな普通の奴がこんなすごい学校でやっていけるのか
+origin : 僕みたいな普通のやつが こんなすごい学校でやってけるのか
+
+predict: うそっ
+origin : うそ
+
+predict: お、お、いや…
+origin : あっ い…いや
+
+predict: 15人ですか
+origin : 十五人ですか
+
+predict: 動かない
+origin : 動かない
+
+predict: 誰かの仕業なのだとしたら、それは誰だ?
+origin : 誰かの仕業なのだとしたら それは誰だ
+
+predict: 学業 スポーツ 芸術 芸能
+origin : 学業 スポーツ 芸術 芸能
+
+predict: ぬぐるみじゃなくてものくまなんですけど
+origin : ぬいぐるみじゃなくて モノクマなんですけど
+
+predict: なんなんだここは
+origin : なんなんだここは ちぇ
+
+predict: 私立希望がみね学園
+origin : 私立 希望ヶ峰学園
+
+predict: よろしくね
+origin : よろしくね
+
+predict: しかも学園長なんですけど
+origin : しかも 学園長なんですけど
+
+predict: 僕の希望がみな学園にやってきたのは超高校級の幸運なんかじゃなくて
+origin : 僕が希望ヶ峰学園にやって来たのは「超高校級の幸運」なんかじゃなくて
+
+predict: 遅刻とはけしからんじゃないか!
+origin : 遅刻とはけしからんじゃないか
+
+predict: ん?
+origin : えっ？
+
+predict: いえ そうじゃない
+origin : いえ そうじゃない
+
+predict: この時点で僕は気づいても良かったのかもしれない
+origin : この時点で 僕は気づいてもよかったのかもしれない
+
+predict: 彼らが…希望神根学園に選ばれた超高校級の生徒たち…
+origin : 彼らが 希望ヶ峰学園に選ばれた超高校級の生徒たち
+
+predict: ん?
+origin : えっ！？
+
+predict: お前らのこの学園の学園長なのだ!
+origin : お前らの この学園の学園長なのだ
+
+predict: これで全員ですかね
+origin : これで全員ですかね
+
+predict: 何を見ている
+origin : なにを見ている
+
+predict: さっさと本題に入るぜ
+origin : さっさと本題に入るぞ
+
+predict: 8時集合と知らされてあったはずだろ
+origin : 八時集合と知らされてあったはずだろう
+
+predict: 全員が気を失っており、各々に目を覚ましここに集まった。
+origin : 全員が気を失っており 各々に目を覚まし ここに集まった
+
+predict: 俺の占いは3割当たる!
+origin : 俺の占いは三割当たる
+
+predict: マイクテスト!マイクテスト!
+origin : マイクテスト マイクテスト
+
+predict: 俺の占いがそう言ってるべ
+origin : 俺の占いがそう言ってるべ
+
+predict: 奪われたということか
+origin : 奪われたということか
+
+predict: こんなの監禁じゃない
+origin : こんなの監禁じゃない
+
+predict: ショックです
+origin : ショックです
+
+predict: なに?
+origin : なに
+
+predict: なんだこの部屋
+origin : なんだ この部屋
+
+predict: ういこるみ
+origin : ぬいぐるみ？
+
+predict: いつまでじゃれあっている
+origin : いつまでじゃれ合っている？
+
+predict: ただの暗闇 それが始まり
+origin : ただの暗闇 それが始まり
+
+predict: あらゆる分野の超一流高校生を集め
+origin : あらゆる分野の超一流高校生を集め
+
+predict: 教室…どうして?
+origin : 教室？ どうして
+
+predict: だって3年間も同じ学校だったんですよ
+origin : だって 三年間も同じ学校だったんですよ
+
+predict: 僕が選ばれたのはただの運ってわけだ
+origin : 僕が選ばれたのはただの運ってわけだ
+
+predict: えぇ、そんなに冷たい人間だと思われてたんですか?
+origin : えっ そんなに冷たい人間だと思われてたんですか
+
+predict: ぬぐみが動いた!
+origin : ぬいぐるみが動いた
+
+predict: どうせ学園が企画したオリエンテーションかなんかだろ?
+origin : どうせ学園が企画したオリエンテーションかなんかだろう
+
+predict: 行こうか
+origin : 行こうか
+
+predict: よかった、知ってる人がいて
+origin : よかった 知ってる人がいて
+
+predict: 新しい学園生活が始まる
+origin : 新しい学園生活が始まる
+
+predict: こんな訳のわからない状況で遅刻も何もないじゃん
+origin : こんなわけの分からない状況で 遅刻もなにもないじゃん
+
+predict: 育て上げることを目的とした
+origin : 育て上げることを目的とした
+
+predict: なんかおかしな学校だべ
+origin : なんか おかしな学校だべ
+
+predict: あ?おめえも新入生か?
+origin : ああ？ おめえも新入生か
+
+predict: あの、凪木くんですよね
+origin : あのう 苗木君ですよね
+
+predict: 同じ中学だった
+origin : 同じ中学だった
+
+predict: 僕みたいな目立たない奴気にとまらないと思って
+origin : 僕みたいな目立たないやつ 気にとまらないと思ってた
+
+predict: カメラ?
+origin : カメラ？
+
+predict: うん、当然じゃないですか
+origin : うん 当然じゃないですか
+
+predict: え?まさか…まいぞなさん…僕のこと覚えてるの?
+origin : えっ まさか舞園さん 僕のこと 覚えてるの
+
+predict: 妙な話ですよね
+origin : 妙な話ですわね
+
+predict: どうであろう
+origin : どうであろうな
+
+predict: そして日常の終わり
+origin : そして 日常の終わり
+
+predict: そう、しけた顔するなって
+origin : そうしけた顔するなって
+
+predict: なぜこんなことになっている
+origin : なぜこんなことになっている
+
+predict: ひょっとして、誘拐とか?
+origin : ひょっとして 誘拐とか
+
+predict: 俺がいた完別種みたいだ
+origin : 俺がいた鑑別所みてえだ
+
+predict: 政府公認の超特権的な学園
+origin : 政府公認の超特権的な学園
+
+predict: マイツノサン?
+origin : 舞…園さん？
+
+predict: 超高校級の不運だったってことに
+origin : 超高校級の不運だったってことに
+
+predict: 我の携帯も
+origin : われの携帯もだ
+
+predict: 何言ってんの?
+origin : なに言ってんの
+
+predict: ではでは進行を申しているのでさっさと始めちゃいましょう
+origin : ではでは 進行もおしてるんで さっさと始めちゃいましょう
+
+predict: みんなそうだったんだね
+origin : みんなそうだったんだね
+
+predict: あのー 君も教室で目を覚ましたの?
+origin : あの 君も教室で目を覚ましたの
+
+predict: ああ、僕も教室で
+origin : うん 僕も教室で…
+
+predict: 目障りな奴だ
+origin : 目障りな奴だ
+
+predict: 大丈夫聞こえてるよね?
+origin : 大丈夫 聞こえているよね
+
+predict: つーか、私の荷物どこ行っちゃったの?
+origin : つーか あたしの荷物 どこへ行っちゃったの
+
+predict: あ、あのー
+origin : あ…あのう
+
+predict: うん
+origin : うん…
+
+predict: 新入生のみなさん、今から入学式を取り行いたいと思います。
+origin : 新入生のみなさん 今から 入学式を執り行いたいと思います
+
+predict: 俺らみんな連れ去られたなんておちい!
+origin : 俺ら みんな連れ去られた…なんてオチ？
+
+predict: その巨大な学園は
+origin : その巨大な学園は
+
+predict: お前らは?
+origin : 「お前ら」？
+
+predict: 冗談で
+origin : 冗談です
+
+predict: 携帯もどっか行っちゃったし
+origin : 携帯もどっかいっちゃったし
+
+predict: ちょっ、手触り!
+origin : た…たった三割？
+
+predict: ぬぐるみじゃないよ!僕はモノクマだよ!
+origin : ぬいぐるみじゃないよ 僕はモノクマだよ
+
+predict: 私がブスだ
+origin : 私がブスだから…
+

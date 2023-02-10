@@ -1,7 +1,12 @@
 
 import whisper
-model = whisper.load_model("medium")
+# model = whisper.load_model("medium")
+model = whisper.load_model("large")
 import glob
+
+whisper_results = ''
+
+n = 0
 
 mp3paths = glob.glob('./audios/*.mp3', recursive=True)
 for mp3path in mp3paths:
@@ -37,8 +42,17 @@ for mp3path in mp3paths:
 
     result = whisper.decode(model, mel, options)
 
+    whisper_results += f'predict: {result.text}\norigin : {text}\n\n'
+
     # print the recognized text
     print(f'predict: {result.text}')
     print(f'origin : {text}')
 
+    n += 1
 
+    print(f'one task done {n}/{len(mp3paths)}')
+
+with open('whisper_results.txt', 'w', encoding='utf-8') as f:
+    f.write(whisper_results)
+
+print('all task done.')
